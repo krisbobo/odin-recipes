@@ -4,12 +4,6 @@ body {
     display: inline-block;
     margin: auto;
 }
-h1 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 700;
-  color: blueviolet;
-  margin: 20px;
-}
 
 ul {
     list-style-type: none;
